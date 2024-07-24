@@ -21,3 +21,4 @@ module "container-registry" {
   write                  = false
   expiry_seconds         = 1576800000
 }
+
